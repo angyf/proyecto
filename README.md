@@ -8,6 +8,7 @@
  
  - [Notebook]() 
  
- - [Notebook Postwork 7](https://github.com/angyf/proyecto/blob/main/Procesamiento_de_Lenguaje_Natural.ipynb)
+ - [Notebook Postwork](https://github.com/angyf/proyecto/blob/main/Procesamiento_de_Lenguaje_Natural.ipynb)
 
+ - [Mapas]() 
 
