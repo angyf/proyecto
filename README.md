@@ -2,12 +2,12 @@
 # Proyecto módulo 4 BEDU
 ## Equipo 5
 
- - [Vídeo](link)
+ - [Vídeo]()
 
- - [Presentación](link)
+ - [Presentación]()
  
  - [Notebook]() 
  
- - [Notebook Postwork 7]()
+ - [Notebook Postwork 7](https://github.com/angyf/proyecto/blob/main/Procesamiento_de_Lenguaje_Natural.ipynb)
 
 
