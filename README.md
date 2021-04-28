@@ -4,9 +4,9 @@
 
 # Equipo 5
 INTEGRANTES: 
-+ Juan Daniel Álvarez Monsivais
-+ Angelica Patricia Fuentes Gómez
-+ Ivonne Ramírez Díaz
+ Juan Daniel Álvarez Monsivais
+ Angelica Patricia Fuentes Gómez
+ Ivonne Ramírez Díaz
 
  - [Notebook proyecto](https://github.com/angyf/proyecto/blob/main/Proyecto_M4.ipynb) 
 
