@@ -1,9 +1,9 @@
 # FACTORES DE ENFERMEDADES CARDÍACAS
 # Proyecto módulo 4 BEDU
+
+
 # Equipo 5
-
 INTEGRANTES: 
-
 + Juan Daniel Álvarez Monsivais
 + Angelica Patricia Fuentes Gómez
 + Ivonne Ramírez Díaz
