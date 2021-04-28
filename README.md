@@ -6,7 +6,7 @@
 
  - [Notebook Postwork 7]()
 
- - [Notebook Mapas]()
+ - [Notebook Mapas](https://github.com/angyf/proyecto/blob/main/Mapas_Coropl%C3%A9ticos.ipynb)
 
  - [Dashboard](https://enfermedades-cardiovasculares.herokuapp.com/)
 
