@@ -1,15 +1,7 @@
 # FACTORES DE ENFERMEDADES CARDÍACAS
 # Proyecto módulo 4 BEDU
-
-
 # Equipo 5
-INTEGRANTES: 
 
- Juan Daniel Álvarez Monsivais
- 
- Angelica Patricia Fuentes Gómez
- 
- Ivonne Ramírez Díaz
 
 NOTEBOOKS
   - [Notebook proyecto](https://github.com/angyf/proyecto/blob/main/Proyecto_M4.ipynb) 
@@ -21,7 +13,7 @@ NOTEBOOKS
 
 DASHBOARD
   - [Dashboard](https://enfermedades-cardiovasculares.herokuapp.com/)
-  - 
+  
   - [Repositorio del dashboard](https://github.com/DanielMonsivais/Dashboard-Equipo5)
 
 PRESENTACIÓN Y VÍDEO
