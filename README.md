@@ -4,7 +4,7 @@
 
  - [Notebook]() 
 
- - [Notebook Postwork 7]()
+ - [Notebook Postwork 7](https://github.com/angyf/proyecto/blob/main/Procesamiento_de_Lenguaje_Natural.ipynb)
 
  - [Notebook Mapas](https://github.com/angyf/proyecto/blob/main/Mapas_Coropl%C3%A9ticos.ipynb)
 
